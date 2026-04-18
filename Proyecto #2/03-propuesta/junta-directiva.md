@@ -29,7 +29,7 @@ Estos problemas fueron el punto de partida para la discusión técnica.
 Durante la simulación, cada integrante asumió un rol específico:
 
 - **Product Manager:** Enfocado en rapidez, costos y resultados del negocio – Daniel Cabrera  
-- **Tech Lead:** Enfocado en calidad técnica y estructura del sistema – Ashley Sonval  
+- **Tech Lead:** Enfocado en calidad técnica y estructura del sistema – Ashley Solval  
 - **QA / Auditor:** Encargado de validar errores y riesgos – Ángel Saloj  
 - **Cliente:** Representante del negocio (Farmacia del Ángel) – Giovanni Villegas  
 - **Scrum Master:** Mediador y organizador de la discusión – Marco Mérida  
