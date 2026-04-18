@@ -23,7 +23,7 @@ Estos problemas fueron el punto de partida para la discusión técnica.
 
 ## Simulación Junta Directiva
 
-🎥 **Video:** [Ver simulación](https://youtu.be/4WelHaqM6Cw)
+🎥 **Video:** https://www.youtube.com/watch?v=4WelHaqM6Cw 
 
 ### Roles asignados
 Durante la simulación, cada integrante asumió un rol específico:
