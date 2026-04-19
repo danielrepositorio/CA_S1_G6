@@ -8,7 +8,7 @@
 - **Participantes:** Daniel Cabrera, Giovanni Villegas  
 
 ### Evidencia fotográfica
-![Foto farmacia](./Farmacia-el-Angel-Evidencia.jpeg)
+![Foto farmacia](Farmacia.jpeg)
 
 **Descripción:**  
 Fotografía tomada en el exterior de la Farmacia del Ángel como evidencia de la visita realizada por el equipo. En esta imagen se verifica la presencia del grupo en el lugar donde se llevó a cabo la entrevista.
@@ -32,7 +32,7 @@ La evidencia presentada valida la interacción directa con un negocio real, perm
 - **Participantes:** Ashley Solval, Ángel Saloj, Ángel Juárez  
 
 ### Evidencia fotográfica
-![Foto abarrotería](./Abarroteria-gani-Evidencia.jpeg)
+![Foto abarrotería](Abarroteria.jpeg)
 
 **Descripción:**  
 Fotografía tomada en el exterior de la Abarrotería Gani como evidencia de la visita realizada por el equipo. Esta imagen confirma la presencia en el establecimiento donde se llevó a cabo la entrevista.
