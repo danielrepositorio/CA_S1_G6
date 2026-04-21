@@ -2,6 +2,16 @@
 ## Comunicación Asertiva y Análisis de Trade-Offs en un Proyecto de Software
 
 ---
+## Integrantes del Grupo:
+
+1. [Edgar Daniel Cabrera Arévalo]   [202500007]
+2. [Ashley Alexandra López Solval]  [202505267]
+3. [Giovanni Josué Villegas Álvarez][202501086]
+4. [Ángel Rafael Juárez Higueros]   [202500065]
+5. [Luis Ángel Saloj Cuma]          [202503517]
+6. [Marco David Mérida Velásquez]   [202501037]
+
+---
 
 # 1. Planteamiento del problema
 
