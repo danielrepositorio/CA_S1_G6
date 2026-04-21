@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="Diagrama del sistema de inventario" src="https://github.com/user-attachments/assets/10e1c60c-7a6b-42e0-8cf3-1c2e9027414d" />
 # Tarea 5  
 ## Comunicación Asertiva y Análisis de Trade-Offs en un Proyecto de Software
 
@@ -39,14 +38,7 @@ Por lo tanto, el equipo debe tomar decisiones técnicas evaluando diferentes alt
 
 ---
 
-## Imagen sugerida
-
-Aquí se puede colocar una imagen que represente el contexto del proyecto.
-
-![Diagrama del sistema de inventario](imagenes/contexto_proyecto.png)
-
-*Sugerencia de imagen:*  
-Un diagrama simple del sistema mostrando módulos como inventario, pedidos y reportes.
+<img width="1536" height="1024" alt="Diagrama del sistema de inventario" src="https://github.com/user-attachments/assets/10e1c60c-7a6b-42e0-8cf3-1c2e9027414d" />
 
 ---
 
@@ -64,14 +56,7 @@ En este proyecto se identificaron los siguientes trade-offs:
 
 ---
 
-## Imagen sugerida
-
-Se puede colocar un diagrama que explique visualmente los trade-offs.
-
-![Diagrama trade-offs](imagenes/tradeoffs.png)
-
-*Sugerencia de imagen:*  
-Un triángulo de gestión de proyectos (tiempo, costo, calidad).
+<img width="1536" height="1024" alt="Diagrama trade-offs" src="https://github.com/user-attachments/assets/9d17205d-3c00-4c56-93c5-f355dc882981" />
 
 ---
 
@@ -191,11 +176,7 @@ Mejor preparación para el futuro del sistema.
 
 ---
 
-## Imagen sugerida
-
-Aquí se puede colocar un diagrama comparando arquitectura simple vs escalable.
-
-![Arquitectura del sistema](imagenes/arquitectura.png)
+<img width="1536" height="1024" alt="Arquitectura del sistema" src="https://github.com/user-attachments/assets/4d7e2b07-14bc-4374-b484-08882dcf4714" />
 
 ---
 
@@ -227,11 +208,7 @@ Es preferible entregar un sistema estable con funcionalidades esenciales que un 
 
 ---
 
-## Imagen sugerida
-
-Aquí se puede colocar una imagen de una reunión de equipo o diagrama de toma de decisiones.
-
-![Reunión técnica](imagenes/negociacion.png)
+<img width="1536" height="1024" alt="Reunión técnica" src="https://github.com/user-attachments/assets/8fcfba49-a784-4941-b963-f2e7b085572a" />
 
 ---
 
@@ -279,4 +256,4 @@ Aprendimos que en los proyectos de software siempre existen decisiones donde no 
 
 ## ¿Cómo aplicamos comunicación asertiva?
 
-La comunicación asertiva se aplicó durante las discusiones del equipo, donde cada integrante expresó sus ideas de forma clara y respetuosa. Se utilizaron argumentos técnicos y evidencia para apoyar las decisiones tomadas.<img width="1536" height="1024" alt="Diagrama del sistema de inventario" src="https://github.com/user-attachments/assets/f53697d0-487f-459d-add7-ffc2bb6b7666" />
+La comunicación asertiva se aplicó durante las discusiones del equipo, donde cada integrante expresó sus ideas de forma clara y respetuosa. Se utilizaron argumentos técnicos y evidencia para apoyar las decisiones tomadas.
