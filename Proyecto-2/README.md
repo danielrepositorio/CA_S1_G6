@@ -69,7 +69,7 @@ El sistema permite adaptarse al presupuesto del cliente mediante módulos progre
 
 ## Enlaces Importantes
 - **Trello:** [\[Link del tablero\]](https://trello.com/b/nzYQP4hv/proyecto-2)  
-- **Documentación Web (Docusaurus):** [Link GitHub Pages]  
+- **Documentación Web: [\[Link del Sitio Web\]](https://proyecto2ca.netlify.app/)
 
 ## Estructura del Proyecto
 
