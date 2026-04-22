@@ -65,7 +65,7 @@ A continuación se presentan los videos individuales de cada integrante del equi
 - **Daniel Cabrera:** [\[Link YouTube\]](https://youtu.be/PJraP2NGegU?si=rwxIbtOquvjByeDl)  
 - **Ángel Juárez:** [\[Link YouTube\] ](https://youtu.be/9gzU9aDlHo4) 
 - **Marco Mérida:** [\[Link YouTube\]](https://youtu.be/q7vN4NYRsCw)  
-- **Ashley Sandoval:** [\[Link YouTube\] ](https://youtu.be/oYhmhNG8n5o?si=1nII-DpO8uw44JGo) 
+- **Ashley Solval:** [\[Link YouTube\] ](https://youtu.be/oYhmhNG8n5o?si=1nII-DpO8uw44JGo) 
 - **Giovanni Villegas:** [\[Link YouTube\]](https://youtu.be/pDXXGp1u0HM?si=PRmK7-Ap3n_SxoL-) 
 - **Ángel Saloj:** [\[Link YouTube\]](https://youtu.be/IUX49bvnAxw)  
 
